@@ -2,8 +2,12 @@ Esta es la historia de un copito
 Anita tiene 100 años y nacio en chapultepec
 ahora se va a jugar con el aizen
 <<<<<<< HEAD
+<<<<<<< HEAD
 aizen 2
 =======
 
 Experimento 1
 >>>>>>> 202fffa (Exp 1)
+=======
+alias arbolito="git log --all --graph --decorate --online"
+>>>>>>> 6e554d6 (Exp 2)
